@@ -9,3 +9,6 @@ if you are using osmosim then use "https://www.sysmocom.de/manuals/sysmousim-man
 also currently only IMSI based calling is enabled so no phone number are recognized
 
 It really a dirty commit and may be god willing i may create better version of this.
+
+
+Currently License of MJSIP and GNUGPL for modifications is applicable
